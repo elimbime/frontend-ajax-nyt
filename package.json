@@ -1,15 +1,23 @@
 {
-  "name": "minicourse-ajax-project",
+  "name": "udacity_ajax_init",
   "version": "1.0.0",
-  "description": "Udacity project ",
-  "main": "index.html",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanacensi/frontend-ajax-nyt.git"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
-  }
+  }, 
+  "bugs": {
+    "url": "https://github.com/ivanacensi/frontend-ajax-nyt/issues"
+  },
+  "homepage": "https://github.com/ivanacensi/frontend-ajax-nyt#readme"
 }
